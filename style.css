@@ -1,6 +1,7 @@
 p a {
 	color: #003300;
 	text-decoration: underline;
+Color=background: blue
 }
 a:hover {
 	text-decoration: none
