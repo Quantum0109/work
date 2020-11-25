@@ -6,7 +6,7 @@ body {
 .container_head {
 	display: flex;
 	flex-direction: column;
-	background-image: url(papka/big.jpg);
+	background-image: url(papka/WDL.jpg);
 	height: 100vh;
 	background-size: cover;
 	justify-content: center;
